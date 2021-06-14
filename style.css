@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+}
+main p {
+    text-align: justify;
+}
+progress {
+    justify-content: center;
+}
+.status-bar {
+    text-align: center;
+}
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
